@@ -7,4 +7,8 @@
 
 ### 📝 Недавние посты в блоге [Tayviscon IO](https://knowledge-base.tayviscon.com/)
 <!-- BLOG-POST-LIST:START -->
+- [Busy waiting: как избежать проблему?](https://knowledge-base.tayviscon.com/posts/how-to-avoid-busy-waiting/)
+- [GitHub Action](https://knowledge-base.tayviscon.com/posts/github-action/)
+- [Apache Kafka](https://knowledge-base.tayviscon.com/posts/apache-kafka/)
+- [Разработка надежных и масштабируемых систем онлайн-исполнения кода](https://knowledge-base.tayviscon.com/posts/robust-and-scalable-online-code-execution-system/)
 <!-- BLOG-POST-LIST:END -->
