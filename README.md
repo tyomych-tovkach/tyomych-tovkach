@@ -12,3 +12,7 @@
 - [Apache Kafka](https://knowledge-base.tayviscon.com/posts/apache-kafka/)
 - [Разработка надежных и масштабируемых систем онлайн-исполнения кода](https://knowledge-base.tayviscon.com/posts/robust-and-scalable-online-code-execution-system/)
 <!-- BLOG-POST-LIST:END -->
+
+### 🖥 Недавние видео на [YouTube](https://www.youtube.com/@tayviscon)
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
