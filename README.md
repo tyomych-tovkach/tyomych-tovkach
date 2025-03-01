@@ -15,4 +15,6 @@
 
 ### 🖥 Недавние видео на [YouTube](https://www.youtube.com/@tayviscon)
 <!-- YOUTUBE:START -->
+- [Tayviscon: Рождение из хаоса](https://www.youtube.com/watch?v=lhGamS89atg)
+- [Tayviscon: Трейлер](https://www.youtube.com/watch?v=pKrDonOhoGU)
 <!-- YOUTUBE:END -->
